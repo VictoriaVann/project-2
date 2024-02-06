@@ -3,17 +3,6 @@
 <head>
   <meta charset="utf-8">
   <title>ITMD 361: Fundamentals of Web Development</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-  <link rel="stylesheet" href="css/screen.css" media="screen">
-  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-  <!--<script async src="js/site.js"></script>-->
-  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-  <script>
-    $( function() {
-      $( "#accordion" ).accordion();
-    } );
-  </script>
 </head>
 <body>
   <div id="page">
