@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en" id="projects">
-<head>
-  <meta charset="utf-8">
-  <title>ITMD 361: Fundamentals of Web Development</title>
-</head>
 <body>
   <div id="page">
     <header id="header">
