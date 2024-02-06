@@ -19,21 +19,6 @@
   <div id="page">
     <header id="header">
       <h1><small>ITMD 361&#x3a; <!--UPDATE-->Spring 2024</small> Fundamentals&nbsp;of Web Development</h1>
-      <p class="tagline">
-        This class covers the foundational principles of web development. How to research client-server
-        architecture according to current open standards. Taught by
-        <a href="index.html#instructor">Professor Daniel Krieglstein</a>. Course developed by IIT 
-        Professors <a href="https://appliedtech.iit.edu/people/brian-bailey">Brian Bailey</a>, 
-        <a href="https://humansciences.iit.edu/faculty/karl-stolley">Dr. Karl Stolley</a>, &amp; Dr. Daniel Krieglstein.
-      </p>
-      <nav id="navigation">
-        <ul class="nav">
-          <li id="nav-cal"><a href="index.html">Calendar</a></li>
-          <li id="nav-pro"><a href="#">Projects</a></li>
-          <li id="nav-pol"><a href="syllabus.html">Syllabus</a></li>
-          <li id="nav-lnk"><a href="links.html">Links</a></li>
-        </ul>
-      </nav>
     </header>
 
   <main id="content">
