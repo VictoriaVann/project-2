@@ -10,34 +10,36 @@
     <section class="primary">
       <h2 class="label">Major Projects</h2>
       <button class="accordion">
-        <h3>Project One: Only Use HTML</h3>
+         <h3>Project Two: Add CSS</h3>
       </button>
       <div class="panel">
         <section class="description">
           <h4>Project Description</h4>
           <p>
-            Create three HTML pages, each with one desktop size page-scroll worth of content. One of the 
-            pages must be your professional resume. The themes of the other two are your choice. 
+            For this project, you will add CSS to the 3-page website you built for project 1.
           </p>
-        </section>
+        </section>   
         <section class="deliverables">
           <h4>Deliverables &amp; Milestones (see <a href="index.html">calender</a> for due dates)</h4>
           <ol>
             <li>
-              <strong>First Deliverable:</strong> Create a Basecamp post. Title the post with your name 
-              and project number (example Daniel Krieglstein: Project 1). Your post should include:
+              <strong>First Deliverable:</strong> Use your Project One directory in Github to create a 
+              Project Two directory. You can branch it or create a new empty repostory and just copy and past
+              your project 1 code. If you want to learn branching, seek help videos online. Create a new Basecamp post 
+              under "Project Two" with a link to your new directory. Your post should include:
               <ul>
                 <li>
-                  The URL to your Project 1 GitHub repository, and the URL to your index.html Github Pages
+                  The URL to your Project 2 GitHub repository, and the URL to your index.html Github Pages 
                   live link
                 </li>
                 <li>
-                  Three screen capture images of successful html validation. One for each website page.
+                  Six screen capture images of successful validation. One HTML and one CSS validation for
+                  each website page (Use the live link to validate).
                 </li>
                 <li>
                   Two questions eliciting feedback from fellow students
                 </li>
-              </ul>            
+              </ul>  
             </li>
             <li>
               <strong>Second Deliverable:</strong> Give constructive comments to help at least three other
@@ -46,53 +48,56 @@
             <li>
               <strong>Final Deliverable:</strong> You will receive a list on your Basecamp post of required 
               fixes from the professor or TA. Fix your code and edit your original Basecamp post with the 
-              words "FINAL TURN IN"
-            </li> 
+              words "FINAL TURN IN".
+            </li>
           </ol>
         </section>
         <section class="requirements">
           <h4>Requirements</h4>
           <ul>
             <li>
-              NO CSS IN YOUR HTML FILE!!! This means no style at all. No spacing, no centering, no color, 
-              no italics. Just raw html. 
+              ALL THE REQUIRMENTS FROM PROJECT 1 STILL APPLY!
             </li>
             <li>
-              <strong>Absolutely no</strong> br tags or use of tables for layout. This is also considered 
-              style. 
+              One valid, error-free CSS file with your original code; and one file containing the CSS reset 
+              code you used. Both linked from the head of all three HTML files
             </li>
             <li>
-              Two spaces indented cascade. Each child element should be indented 2 space right of its parent. 
+              Apply at least five of the same style elements to each of your pages. Example removing the 
+              list-style from navigation on all three pages with a single CSS deceleration. 
             </li>
             <li>
-              Three images of HTML validation, one for each page. <a href="https://validator.w3.org/">W3C 
-              HTML validator</a> (<span class="redfont">-50% if it doesn't validate</span>)
+              Apply at least five different style elements to each of your pages.
             </li>
             <li>
-              Create a bulleted list at the top of each page. The list items will be the file names of all 3 
-              pages. This is your basic navigation. 
+              Centered horizontal-navigation. At the top of and identical on every page.
             </li>
             <li>
-              Include at least three HTML images and one other form of media (audio or video)
+              Use one imported font style and one browser native font style.  
             </li>
             <li>
-              Do not use any pre-build code or frameworks. Write it all from scratch.
+              Six screen capture images of successful validation. One HTML and one CSS validation for
+              each website page. Use the live link to validate. (<span class="redfont">-50% if it doesn't validate</span>)
             </li>
             <li>
-              Directory-based file structure for links and media. Do not use full URLs when linking to your 
-              own content. Example: "css/screen.css" vs. 
-              "https://dkriegls.github.io/itmd-361-spring2018/css/screen.css"
+              Your HTML and CSS files should both be indented with 2 spaces per level of indent;
+              indent all CSS style rules inside the declaring block, and further indent all rules and
+              blocks inside your media queries
             </li>
             <li>
-              At least 10 commits to your Github repository; with meaningful commit messages that accurately
-              reflect your changes
+              You must use relative units (em, rem, vm, %) in your CSS to make your pages fluid. You may use 
+              px units to put a maximum size or within content areas. 
             </li>
             <li>
-              Git repository must contain <strong>only</strong> the files and commits from this project. Each 
-              website you make for this class should have its own repository.
+              Create at least one fluid layout page using relative units (em, rem, vm, %) and one fixed width
+              layout page.
+            </li>
+            <li>
+              A subjective grade will be applied to websites that are not creative and just apply the 
+              minimum required style.
             </li>
           </ul>
-        </section>
+        </section>      
   </div>      
 </body>
 </html>
