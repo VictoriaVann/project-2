@@ -13,15 +13,17 @@ body {
   display: inline-block;
 }
 
-#main-nav ul li a:hover {
-  background-color: #4078c0;
-}
 
 #main-nav ul li a {
   text-decoration: none;
   padding: 10px 20px;
   font-family: "Shadows Into Light", cursive;
   color: white;
-  transition: background-color 0.3s;
+  background-color: #4078c0;
+  display: inline-block;
 }
 
+
+#main-nav ul li a:hover {
+  text-decoration: underline; 
+}
