@@ -21,7 +21,7 @@ body {
 
 #content-wrapper {
   background-image: url("../images/cool-background.png");
-  float: left;
+  float: center;
 }
 
 #main-nav ul {
