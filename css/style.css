@@ -6,7 +6,7 @@ body {
   text-align: center;
   font-family: Verdana, sans-serif;
   color: white;
-  margin: 0px 20px;
+  margin: 20px 30px;
 }
 
 #main-nav ul {
@@ -14,7 +14,6 @@ body {
   padding: 0;
   margin: 0;
   text-align: center;
-  position: fixed;
 }
 
 #main-nav ul li {
@@ -48,7 +47,7 @@ body {
   display: flex;
 }
 
-bul1, bul2, bul3 {
+bul2, bul3 {
   display: inline-block; 
   vertical-align: top; 
   margin: 10px 20px; 
