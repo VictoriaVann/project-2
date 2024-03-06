@@ -43,12 +43,4 @@ body {
   length: 579px;
 }
 
-.bullet {
-  display: flex;
-}
 
-bul2, bul3 {
-  display: inline-block; 
-  vertical-align: top; 
-  margin: 20px; 
-}
