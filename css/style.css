@@ -14,7 +14,7 @@ body {
   font-family: "Georgia", "Times New Roman", Times, serif;
   color: white;
   width: 900px;
-  margin: 300px;
+  margin: 400px;
 }
 
 #travel-main-content {
@@ -34,6 +34,16 @@ body {
 
 #main-nav ul li {
   display: inline-block;
+}
+
+#edu-section {
+  float: left;
+  margin-left: 200px;
+}
+
+#skills-section {
+  float: right;
+  margin-right: 200px;
 }
 
 #main-nav ul li a {
