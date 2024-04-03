@@ -4,7 +4,7 @@ body {
 
 #main-content {
   text-align: center;
-  font-family: Verdana, sans-serif;
+  font-family: "Georgia", "Times New Roman", Times, serif;
   color: white;
   margin: 100px;
 }
@@ -23,7 +23,7 @@ body {
 #main-nav ul li a {
   text-decoration: none;
   padding: 10px 20px;
-  font-family: "Shadows Into Light", cursive;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
   background-color: #4078c0;
   display: inline-block;
