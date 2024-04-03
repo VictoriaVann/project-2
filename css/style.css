@@ -42,54 +42,55 @@ body {
   width: 900px;
   length: 579px;
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo1 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo3 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo4 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo5 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo6 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo7 {
   border: 4px solid white;
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo8 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo9 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #photo10 {
   border: 4px solid white; 
-  display: block;
+  box-sizing: border-box;
 }
 
 #logo1 {
   border: 4px solid white; 
+  box-sizing: border-box;
 }
