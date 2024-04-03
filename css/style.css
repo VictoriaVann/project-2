@@ -2,11 +2,27 @@ body {
   background-image: url("../images/black-background.webp");
 }
 
-#main-content {
+#index-main-content {
   text-align: center;
   font-family: "Georgia", "Times New Roman", Times, serif;
   color: white;
   margin: 100px;
+}
+
+#resume-main-content {
+  text-align: center;
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  color: white;
+  margin: 100px;
+  width: 900px;
+}
+
+#travel-main-content {
+  text-align: center;
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  color: white;
+  margin: 100px;
+  width: 90%;
 }
 
 #main-nav ul {
