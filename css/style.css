@@ -38,12 +38,10 @@ body {
 
 #edu-section {
   float: left;
-  margin-left: 200px;
 }
 
 #skills-section {
   float: right;
-  margin-right: 200px;
 }
 
 #main-nav ul li a {
